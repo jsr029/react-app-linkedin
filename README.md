@@ -4,4 +4,4 @@
 
 # 1. Create a loading page with react and sass
 
-<img src="./images/redux-install.jpg" />
+<img src="./images/redux-install.HPG" alt="Install react redux" />
