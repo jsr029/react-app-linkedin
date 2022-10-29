@@ -40,6 +40,30 @@ a. Replace lines in App.js by :
 
 export default App;
 
-It looks like this :
+b. It looks like this :
 
 <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/navigation.JPG" alt="Navigation sreen" />
+
+1.3. Prepare Sass
+
+a. Insert sass line in package.json 
+
+<img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/package.JPG" alt="package.json" />
+
+b. Create files and folders
+
+    src
+    |- styles
+    |      |- sass
+    |      |    |- base
+    |      |    |      | _global.scss
+    |      |    | 
+    |      |    | main.scss    
+    |      |    
+    |      |    
+    |      | main.css
+             main.css.map
+    
+ c. type "npm run sass" to run sass in administrator cmd console 
+ 
+ 
