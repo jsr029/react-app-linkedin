@@ -76,3 +76,5 @@ b. Create files and folders
 <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/loadingScss.JPG" alt="Homepage css script" />
 
 React uses a modular structure, so I use it a lot, make some usefull needed components.
+
+I separate pages from components.
