@@ -40,6 +40,10 @@ a. Replace lines in App.js by :
 
 export default App;
 
-It looks like this :
+b. It looks like this :
 
 <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/navigation.JPG" alt="Navigation sreen" />
+
+1.3. Prepare Sass
+
+a. Insert sass line in package.json 
