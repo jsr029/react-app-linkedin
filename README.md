@@ -49,3 +49,19 @@ b. It looks like this :
 a. Insert sass line in package.json 
 
 <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/package.JPG" alt="package.json" />
+
+b. Create files and folders
+
+    src
+    |- styles
+    |      |- sass
+    |      |    |- base
+    |      |    |      | _global.scss
+    |      |    | 
+    |      |    | main.scss    
+    |      |    
+    |      |    
+    |      | main.css
+             main.css.map
+    
+    
