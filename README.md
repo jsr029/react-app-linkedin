@@ -4,13 +4,13 @@
 
 # 1. Create a loading page with react and sass
 
-a. Install react redux template by following instructions below
+1.1. Install react redux template by following instructions below
 
 <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/redux-install.JPG" alt="Install react redux" />
 
-b. Prepare for navigation
+1.2. Prepare for navigation
 
-a.1. Replace lines in App.js by :
+a. Replace lines in App.js by :
 
     import React from 'react';
     /*
@@ -39,3 +39,7 @@ a.1. Replace lines in App.js by :
     }
 
 export default App;
+
+It looks like this :
+
+<img src="" alt="" />
