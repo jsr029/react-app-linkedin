@@ -64,4 +64,6 @@ b. Create files and folders
     |      | main.css
              main.css.map
     
-    
+ c. type "npm run sass" to run sass in administrator cmd console 
+ 
+ 
