@@ -67,5 +67,11 @@ b. Create files and folders
              main.css.map
     
  c. type "npm run sass" to run sass in administrator cmd console 
+ It's an awesome way to automate every change, you"ll make in a scss file.
  
+ Now we can play on making a loading page.
  
+ <img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/loadingJs.JPG" alt="Homepage loading" />
+
+<img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/loadingScss.JPG" alt="Homepage css script" />
+
