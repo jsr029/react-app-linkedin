@@ -2,6 +2,8 @@
 
 ## jsr029 presents a react redux app training for linkedin posts
 
+## Rapid install by typing "npm i", once you unzip this repo.
+
 # 1. Create a loading page with react and sass
 
 1.1. Install react redux template by following instructions below
