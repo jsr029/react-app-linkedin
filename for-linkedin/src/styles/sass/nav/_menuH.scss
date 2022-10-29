@@ -1,0 +1,12 @@
+@media screen and (min-width: 425px) {
+    .hz {
+        display: flex;
+        flex-flow: row nowrap;
+        justify-content: space-around;
+        align-items: center;
+        li{
+            width: 120px;
+            text-align: center;
+        }
+    }
+}

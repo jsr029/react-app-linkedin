@@ -1,0 +1,32 @@
+.vl{
+    display: none;
+}
+.active{
+    display: flex;
+}
+@media screen and (max-width: 425px) {
+    .vl{
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: right;
+    }
+    .hz{
+        display: none;
+    }
+    .resp{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 50px;
+        right: 50px;
+        width: 120px;
+        li:hover{
+            width: 100%;
+            background: red;
+            text-align: center;
+        }
+    }
+}
