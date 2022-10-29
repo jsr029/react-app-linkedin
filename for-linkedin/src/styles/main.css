@@ -25,6 +25,7 @@ a {
 
 #root {
   max-width: 837px;
+  height: 100vh;
   margin: 25px auto;
   display: flex;
   padding: 15px;
@@ -84,6 +85,7 @@ a {
 }
 .loader-container {
   display: flex;
+  height: 100vh;
   flex-direction: column;
   justify-content: center;
   row-gap: 10px;
