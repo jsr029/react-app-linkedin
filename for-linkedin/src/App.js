@@ -19,7 +19,7 @@ function App() {
       <Routes>
         <Route exact path="/" element={<HomePage />} />
         <Route path="/cvpage" element={<CvPage />} />
-        </Routes>
+      </Routes>
     </BrowserRouter>
   )
 }
