@@ -6,6 +6,7 @@
 }
 @media screen and (max-width: 425px) {
     .vl{
+        width: 100%;
         display: flex;
         flex-direction: row;
         align-items: center;
@@ -23,10 +24,13 @@
         top: 50px;
         right: 50px;
         width: 120px;
+        z-index: 1;
         li:hover{
-            width: 100%;
             background: red;
             text-align: center;
+            a{
+                color: white;
+            }
         }
     }
 }
