@@ -1,3 +1,14 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
 .App {
   text-align: center;
 }
@@ -12,7 +23,6 @@
     animation: App-logo-float infinite 3s ease-in-out;
   }
 }
-
 .App-header {
   min-height: 100vh;
   display: flex;
@@ -37,3 +47,5 @@
     transform: translateY(0px);
   }
 }
+
+/*# sourceMappingURL=main.css.map */
