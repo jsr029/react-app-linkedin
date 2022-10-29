@@ -42,4 +42,4 @@ export default App;
 
 It looks like this :
 
-<img src="" alt="" />
+<img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/navigation.JPG" alt="Navigation sreen" />
