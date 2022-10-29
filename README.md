@@ -47,3 +47,5 @@ b. It looks like this :
 1.3. Prepare Sass
 
 a. Insert sass line in package.json 
+
+<img src="https://github.com/jsr029/react-app-linkedin/blob/master/images/package.JPG" alt="package.json" />
